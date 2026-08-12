@@ -22,7 +22,7 @@ gence = pd.DataFrame({
     "MEBLEG":  [450, 1200, 900],
 })
 gence.to_excel(QOVLUQ / "gence.xlsx", index=False)
-
+# ndenf
 
 sumqayit = pd.DataFrame({
     "Tarix":  ["2026-08-01", "2026-08-01", None, "2026-08-03"],

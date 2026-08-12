@@ -4,6 +4,7 @@ import pandas as pd
 QOVLUQ = Path(__file__).parent / "fayllar"
 NETICE = Path(__file__).parent / "birlesmis.xlsx"
 
+# test
 
 hamisi = []
 
